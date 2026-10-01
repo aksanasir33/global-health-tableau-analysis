@@ -13,7 +13,7 @@ This project analyses global health data using Tableau to identify patterns and 
 
 ## Dashboard
 
-![Global Health Dashboard](Global_Health_Dashboard.png)
+![image alt](https://github.com/aksanasir33/global-health-tableau-analysis/blob/main/Global_%20Health_%20Trends_%20Dashboard.png?raw=true)
 
 ## Visualisations
 
@@ -31,14 +31,14 @@ A comparison of average life expectancy between genders globally.
 
 ## Key Insights
 
-- [The global map shows that countries such as Japan have some of the highest life expectancy, while several countries, particularly in Africa, have lower life expectancy]
+- The global map shows that countries such as Japan have some of the highest life expectancy, while several countries, particularly in Africa, have lower life expectancy
   
-- [The gender chart also shows differences in life expectancy between men and women, with women generally having a higher life expectancy than men]
+- The gender chart also shows differences in life expectancy between men and women, with women generally having a higher life expectancy than men
   
-- [The cancer analysis shows that cancer rates vary greatly between countries, with countries like China and The United States showing much higher total rates than others]
+- The cancer analysis shows that cancer rates vary greatly between countries, with countries like China and The United States showing much higher total rates than others
   
-- [The BMI analysis suggests there is a positive relationship between average BMI and life expectancy, as BMI increases, life expectancy also tends to increase, particularly in
-Africa, Asia and the Americas. Whereas this relationship was weaker in Europe and Oceania.]
+- The BMI analysis suggests there is a positive relationship between average BMI and life expectancy, as BMI increases, life expectancy also tends to increase, particularly in
+Africa, Asia and the Americas. Whereas this relationship was weaker in Europe and Oceania.
 
 ## Skills Demonstrated
 
